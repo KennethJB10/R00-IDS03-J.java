@@ -1,5 +1,4 @@
-# R00-IDS03-J.java
-#1 repository
+#Bad Code
 
 if (loginSuccessful) {
   logger.severe("User login succeeded for: " + username);
